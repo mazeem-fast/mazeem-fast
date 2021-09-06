@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @mazeem-fast
-- 👀 I’m interested in Software Engineering,
-- 🌱 I’m currently learning Distributed Systems, and Software Design
+- 👋 Hi, I’m Muhammad Azeem
+- 👀 I’m interested in `Software Engineering`,
+- 🌱 I’m currently learning `Distributed Systems, and Software Design`
 - 💞️ I’m looking to collaborate on `nothing yet`
 
 <!---
